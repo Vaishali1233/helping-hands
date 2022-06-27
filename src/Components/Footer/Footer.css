@@ -1,0 +1,32 @@
+.footerParentDiv {
+  width: 100vw;
+ 
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ebeeef;
+  padding: 16px;
+}
+.heading {
+  align-items: center;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+  background: radial-gradient(black, transparent);
+  color: whitesmoke;
+}
+
+.footer p{
+  text-align: center;
+  width: 100%;
+}
